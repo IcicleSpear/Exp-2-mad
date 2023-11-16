@@ -20,10 +20,10 @@ Step 7: Save the changes and run the application on an Android device or emulato
 
 Step 8: Verify that the application launches successfully and displays the message.
 ## Program:
-
-## Developed By: Abhishek.A.G
-## Reg.No:212221040004
-
+```
+Developed By: Abhishek.A.G
+Reg.No:212221040004
+```
 ## activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -246,11 +246,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## Output:
-
-![WhatsApp Image 2023-08-27 at 22 21 11](https://github.com/HibaRajarajeswari/GUI_Component/assets/129970809/b6678f6a-b57e-436e-887a-1d46f18a96b0)
-![WhatsApp Image 2023-08-27 at 22 21 32](https://github.com/HibaRajarajeswari/GUI_Component/assets/129970809/5bb64c38-dc82-42ef-ba4a-a90a9bb32095)
-![WhatsApp Image 2023-08-27 at 22 21 59](https://github.com/HibaRajarajeswari/GUI_Component/assets/129970809/8e2cd39c-e3cd-4f24-9baf-3a475a5f781d)
-
+![267540920-a129719f-49c3-4614-ab81-74f6ef02e525 1](https://github.com/Lathishkum/exp2/assets/144109092/3c81cc4f-86aa-4114-a222-88fae4171cb1)
+![267541113-ac1fe67d-d656-45d6-ace3-a1ab339c0a6d 1](https://github.com/Lathishkum/exp2/assets/144109092/f5fb81d8-3171-47f7-ad33-6db7344c9be0)
 
 ## Result:
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
